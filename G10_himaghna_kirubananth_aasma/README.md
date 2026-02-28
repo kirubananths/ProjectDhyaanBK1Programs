@@ -20,7 +20,9 @@ Does entropy decrease during meditative states?
 
 Kirubananth
 -------------
-
+1. Mutual Information Analysis
+2. Lempel-Ziv Complexity Analysis
+3. Phase-Amplitude Coupling Analysis (Between Theta-Gamma or Alpha-Gamma)
 
 ***************
 
