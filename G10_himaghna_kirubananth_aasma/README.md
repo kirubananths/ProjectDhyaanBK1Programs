@@ -8,7 +8,7 @@ METHODS
 ***************
 Himaghna
 -------------
-1.Transfer entropy
+1. Transfer entropy
 2. Spectral Entropy
 
 Description:
@@ -26,6 +26,12 @@ Kirubananth
 
 Aasma
 -------------
+1. Dimensionality reduction
+
+Description:
+--------------
+Using PCA to extract low-dimensional latent variables.
+
 
 
 =================   
