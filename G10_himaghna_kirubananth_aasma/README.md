@@ -1,4 +1,4 @@
-NSP - G10 - Himaghna Kirubananth Aasma
+NSP - G10 - Himaghna Kirubananth
 
 Dataset: ProjectDhyaanBK1
 
@@ -8,13 +8,17 @@ METHODS
 ***************
 Himaghna
 -------------
-1. Transfer entropy
-2. Spectral Entropy
+1. Transfer entropy (TE)
 
 Description:
 --------------
-Analysing the dynamics of entropy.
-Does entropy decrease during meditative states?
+To explore how TE changes across meditative states 
+before and after meditation (beofre M1 and after M1) (i.e., G1 vs G2)
+
+To exlore does TE behave differently in different frequency bands: 
+maily Gamma-band vs Broadband
+
+To explore how stimulation affects TE Stim vs Baseline.
 
 ***************
 
@@ -25,14 +29,6 @@ Kirubananth
 3. Phase-Amplitude Coupling Analysis (Between Theta-Gamma or Alpha-Gamma)
 
 ***************
-
-Aasma
--------------
-1. Dimensionality reduction
-
-Description:
---------------
-Using PCA to extract low-dimensional latent variables.
 
 
 
